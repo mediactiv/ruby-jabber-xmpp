@@ -1,0 +1,8 @@
+---
+# Config example
+to:
+  jid: login@jabber-host
+  password: password
+from:
+  jid: login@jabber-host
+  password: password

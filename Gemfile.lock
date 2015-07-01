@@ -1,0 +1,13 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    xmpp4r (0.5.6)
+
+PLATFORMS
+  x86-mingw32
+
+DEPENDENCIES
+  xmpp4r
+
+BUNDLED WITH
+   1.10.4
